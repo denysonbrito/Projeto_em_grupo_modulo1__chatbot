@@ -1,0 +1,9 @@
+telaInicial= """
+{0}ACADEMIA {1}VAMO AI
+
+{0}1{1} -{0} HORÁRIOS POR MODALIDADE
+{0}2{1} -{0} PLANOS
+{0}3{1} -{0} ENDEREÇO DAS UNIDADES
+{0}0{1} -{0} SAIR
+
+"""
