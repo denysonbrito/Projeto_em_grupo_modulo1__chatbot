@@ -1,6 +1,6 @@
 from enderecosacademias import localizacaoacademias
 from planosacademia import tiposDeplanos
-from TelaInicialAcademia import telaInicial
+from telaInicialAcademia import telaInicial
 from horariodasmodalidades import modalidadesPorHorario
 from cores import vermelho
 from funcoes import tInicial,tdois,tfinal 
